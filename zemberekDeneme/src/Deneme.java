@@ -1,7 +1,7 @@
 import net.zemberek.erisim.Zemberek;
 import net.zemberek.tr.yapi.TurkiyeTurkcesi;
 public class Deneme {
-
+//aAAAAAAAAAAAAAAAAAAAAAAA
 	/**
 	 * @param args
 	 */
