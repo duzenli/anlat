@@ -19,7 +19,7 @@ public class TCPClient {
     /**
 	 * Specify the Server Ip Address here. Whereas our Socket Server is started.
 	 * */
-	public static final String SERVERIP = "192.168.2.151"; // your computer IP address
+	public static final String SERVERIP = "192.168.43.250"; // your computer IP address
     public static final int SERVERPORT = 8080;
     private OnMessageReceived listenerMessage = null;
     private boolean isRun = false;
